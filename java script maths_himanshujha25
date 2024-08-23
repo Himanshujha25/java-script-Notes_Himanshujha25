@@ -1,1 +1,9 @@
+// maths topic in javscript_ Himanshujha25....
+console.log(Math.random() * 10);// Maths.random generate number between  0 to 1:
+console.log(Math.ceil(Math.random()*10));//Maths.ceil is java script funtion always round off to the greater than and equal to the given number:)
+console.log(Math.floor(Math.random()*10));// Math.floor is java script funtion always round off to number which is less than or equalto given number:)
+console.log(Math.max(1,3,7,8,0,4,7,19,49,9,));// it print the  maximum value of array :)
+console.log(Maths.min(1,2,6,8,3,9,-1,-5,4,));// it print the minimum value of arrary :)
 
+//this is for today we learn about Maths funtion in java script....
+Hiamsnhu jha 25:)
